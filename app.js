@@ -39,9 +39,9 @@ alert("Student Bio Data:\n\n" +
 
     // Q5  Write a script to display the following alert using one JS
     //   variable:
-      var alertMessage = "Hello,\n\nWelcome to our website!";
+      var helloMessage = "Hello,\n\nWelcome to our website!";
      
-      alert(alertMessage);
+      alert(helloMessage);
 
     //Q6  Declare a variable called email and assign to it a string that
     // represents your Email Address(e.g. example@example.com).
@@ -61,6 +61,10 @@ alert("Student Bio Data:\n\n" +
 
     // Q8 Write a script to display this in browser through JS
 
+document.write("<p>Yah! I can write HTML content through JavaScript</p>");
 
+    // Q9. Store following string in a variable and show in alert and
+    // browser through JS
 
-
+    var design = "“▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬”";
+    alert(design);
